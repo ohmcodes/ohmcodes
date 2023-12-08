@@ -1,6 +1,7 @@
 [![Ohmcodes github stats](https://github-readme-stats.vercel.app/api?username=ohmcodes&theme=great-gatsby&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmcodes&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohmcodes&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+🏆 My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohmcodes&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <code><img height="20" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code> 
